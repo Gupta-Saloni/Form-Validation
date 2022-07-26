@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(220, 229, 247);
+}
+
+h1{
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 50px;
+}
+#submitvalidation{
+    background-color: #42496e;
+    border:  rgb(0, 0, 0) solid #EDC7B7;
+    color:white;
+}
